@@ -1,8 +1,32 @@
 # boy-leetcode
-leetcode practise
+leetcode practise |  [极客时间-算法面试通关40讲](https://time.geekbang.org/course/intro/130) 练习
 
+> LeetCode  
+> https://leetcode.com/problemset/all/  
+> 题目 + 分类 + 公司归档
 
-## 算法与数据结构
+## 切题四件套
+
+* Clarification 明确题目意思
+
+* Possible solutions
+    - compare(time/space)
+    - optimal(加强)
+
+* Coding(多写)
+
+* Test cases
+    
+
+## Deliberate Practicing
+
+* 坚持、刻意练习
+
+* 练习缺陷、弱点地方
+
+* 不舒服、不爽、枯燥
+
+# 算法与数据结构
 
 --数据结构--  
 * 线性结构
