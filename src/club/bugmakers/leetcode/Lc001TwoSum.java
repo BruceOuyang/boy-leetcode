@@ -9,7 +9,7 @@ import java.util.Map;
  * @see <a href="https://leetcode.com/problems/two-sum/">leetcode tow sum</a>
  * 给定一个数组 nums = [2, 7, 11, 15] 取出其中两个相加等于 9 的元素的下标
  */
-public class Lc1TwoSum {
+public class Lc001TwoSum {
 
     public static void main(String[] args) {
         int[] nums = {2, 3, 4, 5, 6, 7, 11, 15};
